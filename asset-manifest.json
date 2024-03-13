@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/register/static/css/main.6a1b0840.css",
+    "main.js": "/register/static/js/main.0bcea0db.js",
+    "static/media/calendar.png": "/register/static/media/calendar.e43b0309f31323f6424f.png",
+    "index.html": "/register/index.html",
+    "main.6a1b0840.css.map": "/register/static/css/main.6a1b0840.css.map",
+    "main.0bcea0db.js.map": "/register/static/js/main.0bcea0db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a1b0840.css",
+    "static/js/main.0bcea0db.js"
+  ]
+}
